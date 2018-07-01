@@ -1,0 +1,2 @@
+ls -al ~/.ssh  - to list private and public key
+ssh keygen - to generate private and public key
